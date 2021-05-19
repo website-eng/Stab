@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -8,12 +7,13 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
+    <title>S.Tab</title>
   </head>
   <body>
   <h1>Downlod</h1>
     <button href="https://github.com/twbs/bootstrap/releases/download/v5.0.1/bootstrap-5.0.1-examples.zip" type="button" class="btn btn-primary btn-lg">Dodnlod</button>
-    
+    <h6>or copy html from here</h6>
+  <button href="https://github.com/twbs/bootstrap/releases/download/v5.0.1/bootstrap-5.0.1-examples.zip" type="button" class="btn btn-primary btn-lg">Go</button>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
